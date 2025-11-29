@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&lines=Full+Stack+Developer;AI+Builder+%F0%9F%A4%96;Learning+Next.js+%26+AI+integration;Building+%F0%9F%94%A5+Snap-QuizGen;Always+Improving+💯"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&lines=Full+Stack+Developer;AI+Builder+%F0%9F%A4%96;Learning+Next.js+%26+AI+integration;Always+Improving+💯"/>
 </p>
 
 ---
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## ✨ About Me
 
 - 🎓 B.Tech student, passionate about modern development
-- 🛠 Currently building **Snap-QuizGen** — an AI tool that converts lecture PDFs into exam-ready questions
+- 🛠 Currently building **EaseMyLife** — an AI tool that converts lecture PDFs into exam-ready questions
 - 💡 Love solving real-world problems with tech
 - 🎯 Goal: Land a great SDE role with impactful work
 
@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 
 <!-- AI/ML -->
 <img src="https://img.shields.io/badge/AI-GenAI/Gemini-blue?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-LLama-orange?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
 ---
@@ -74,7 +73,7 @@ Here are some ideas to get you started:
 🔧 Tech: **Next.js + Gemini API + MongoDB + Tailwind**
 
 📍 Repo will be added soon 👀
-
+<!--
 ---
 
 ## 📊 GitHub Analytics
@@ -89,6 +88,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
+-->
 
 ## 🤝 Connect With Me
 
