@@ -108,14 +108,13 @@
     <img height="30" src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin">
   </a>
   <br/>
-  <a href="mailto:shreedhargoyal03@gmail.com" target="_blank">
+  <a href="mailto:shreedhar.goyal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 ---
 
-### ⚡ Fun Fact
+### ⚡ Motivation
 
 > 💭 *"Great developers aren't born — they're built through curiosity, practice, and consistency."*
 
