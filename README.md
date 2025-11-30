@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**ShreedharG/ShreedharG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Shreedhar</span>!</h1>
 
 <p align="center">
@@ -25,15 +8,15 @@ Here are some ideas to get you started:
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&lines=Full+Stack+Developer;AI+Builder+%F0%9F%A4%96;Learning+Next.js+%26+AI+integration;Always+Improving+💯"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&lines=Full+Stack+Developer;AI+Builder+%F0%9F%A4%96;Always+Learning+💯"/>
 </p>
 
 ---
 
 ## ✨ About Me
 
-- 🎓 B.Tech student, passionate about modern development
-- 🛠 Currently building **EaseMyLife** — an AI tool that converts lecture PDFs into exam-ready questions
+- 🎓 B.Tech student from Delhi,India passionate about modern development
+- 👨🏻‍🏫 Solved over 500 DSA problems demonstrating consistency and building complex logic
 - 💡 Love solving real-world problems with tech
 - 🎯 Goal: Land a great SDE role with impactful work
 
@@ -41,30 +24,17 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
-<p align="center">
-
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" height="45" />
-
-<br/>
-
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="45" />
-
-<br/>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="45" />
-
-<br/>
-
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/AI-GenAI/Gemini-blue?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+| **Category** | **Technologies** |
+|-------------|------------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" height="45" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask" height="45" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="45" /> |
+| **AI/ML** | <img src="https://img.shields.io/badge/AI-GenAI/Gemini-blue?style=for-the-badge&logo=google&logoColor=white" /> |
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 🚀 **Snap-QuizGen** (In Development)
 
@@ -73,6 +43,47 @@ Here are some ideas to get you started:
 🔧 Tech: **Next.js + Gemini API + MongoDB + Tailwind**
 
 📍 Repo will be added soon 👀
+
+🤼 **BroCode** 
+
+> Creates a collaborative whiteboard room allowing users to build code snippets from scratch
+> Chat feature enabled for users to truely collaborate via text-messages
+
+🔧 Tech: **ReactJS + Socket.io + Tailwind**
+
+📍 Repo is added 
+
+---
+## 🧪 Practice Projects
+
+🤖 **Conversational Chatbot**
+
+> Basic NLP chatbot capable of responding to user queries  
+> Trained on sample conversational intents + FAQ dataset
+
+🔧 Tech: **Python + Tensorflow + nltk + Flask + MySQL**
+
+📍 Repo added
+
+
+⛅ **Weather App**
+
+> Fetches real-time weather data based on user-entered location  
+> Displays temperature, humidity, wind-speed & realted conditions in a clean UI
+
+🔧 Tech: **ReactJS + OpenWeather API**
+
+📍 Repo added 🌦️
+
+
+🎬 **Movie Recommender System**
+
+> Content-based recommender that suggests similar movies  
+> Uses cosine similarity over vectorized movie metadata
+
+🔧 Tech: **Python + pandas + scikit-learn + Streamlit**
+
+📍 Repo added 🎞️
 <!--
 ---
 
@@ -93,11 +104,13 @@ Here are some ideas to get you started:
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shreedhar-goyal-98105b251/">
-<img height="30" src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin">
-</a>
-<br/>
-📧 Email: <b>shreedhar.goyal@gmail.com</b>
+  <a href="https://www.linkedin.com/in/shreedhar-goyal-98105b251/", target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <br/>
+  <a href="mailto:shreedhargoyal03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
