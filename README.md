@@ -46,8 +46,8 @@
 
 🤼 **BroCode** 
 
-> Basic NLP chatbot capable of responding to user queries  
-> Trained on sample conversational intents + FAQ dataset
+> Built a collaborative whiteboard allowing users to build code snippets  
+> Chat option enabled to truely commonicate ideas between users
 
 🔧 Tech: **ReactJS + Socket.io + Tailwind**
 
