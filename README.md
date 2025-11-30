@@ -46,7 +46,7 @@
 
 🤼 **BroCode** 
 
-> Creates a collaborative whiteboard room allowing users to build code snippets from scratch
+> Creates a collaborative whiteboard room allowing users to build code snippets 
 > Chat feature enabled for users to truely collaborate via text-messages
 
 🔧 Tech: **ReactJS + Socket.io + Tailwind**
