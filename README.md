@@ -46,8 +46,8 @@
 
 🤼 **BroCode** 
 
-> Created a collaborative whiteboard room
-> Chat feature enabled for users to truely collaborate via text-messages
+> Basic NLP chatbot capable of responding to user queries  
+> Trained on sample conversational intents + FAQ dataset
 
 🔧 Tech: **ReactJS + Socket.io + Tailwind**
 
