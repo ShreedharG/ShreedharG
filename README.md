@@ -15,10 +15,11 @@
 
 ## ✨ About Me
 
-- 🎓 B.Tech student from Delhi,India passionate about modern development
-- 👨🏻‍🏫 Solved over 500 DSA problems demonstrating consistency and building complex logic
-- 💡 Love solving real-world problems with tech
-- 🎯 Goal: Land a great SDE role with impactful work
+- 🎓 B.Tech student from Delhi, India passionate about modern development and real-world problem solving
+- 👨🏻‍🏫 Solved 500+ DSA problems, building consistency and complex logic
+- 💡 Enjoy exploring systems, building projects, and learning how tech shapes experiences and solves real-world challenges
+- ⚙️ Currently working in skills involving Full-Stack Development, System Design, and AI-powered applications
+- 🎯 Goal: Build technology that genuinely helps people — while growing every day as a learner, engineer, and contributor to the tech community
 
 ---
 
@@ -28,7 +29,8 @@
 |-------------|------------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" height="45" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask" height="45" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="45" /> |
+| **Data Base** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="45" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="45" /> |
 | **AI/ML** | <img src="https://img.shields.io/badge/AI-GenAI/Gemini-blue?style=for-the-badge&logo=google&logoColor=white" /> |
 
