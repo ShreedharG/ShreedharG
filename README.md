@@ -33,6 +33,10 @@
 
 📍 Repo will be added soon 👀
 
+
+<br/><br/>
+
+
 🤼 **BroCode** 
 
 > Built a collaborative whiteboard allowing users to build code snippets  
@@ -40,7 +44,30 @@
 
 🔧 Tech: **ReactJS + Socket.io + Tailwind**
 
-📍 Repo is added 
+📍 Repo is added  
+🔗 [View Repository](https://github.com/ShreedharG/BroCode)
+
+
+<br/><br/>
+
+
+🔐 **OTP Extraction Engine (C++)**
+
+> High-performance utility to extract One-Time Passwords (OTPs) from unstructured SMS and email text.  
+> Designed to handle real-world message noise, multiple OTP formats, and edge cases while minimizing false positives.
+
+🔧 Tech: **C++ | STL | String Processing | Regex**
+
+✨ Features:
+- Supports numeric & alphanumeric OTP formats (4–8 characters)
+- Context-aware extraction using keywords like *OTP*, *verification*, *code*
+- Rule-based filtering to reduce false positives
+- Efficient string parsing with low time and memory overhead
+- Handles diverse SMS/email templates
+
+📍 Repo is added  
+🔗 [View Repository](https://github.com/ShreedharG/OTP_Extraction)
+
 
 ---
 ## 🧪 Practice Projects
