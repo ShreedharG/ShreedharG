@@ -113,6 +113,28 @@
 | **Data Base** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="45" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" height="45" /> |
 | **AI/ML** | <img src="https://img.shields.io/badge/AI-GenAI/Gemini-blue?style=for-the-badge&logo=google&logoColor=white" /> |
+
+---
+
+## 🌱 Giving Back to the Community
+
+📚 **DSA + LLD Problem Archive**
+
+> A curated collection of 300+ Data Structures & Algorithms problems solved and documented for long-term reference and community learning.
+> Contains numerous design patterns frequently asked in major interviews.
+> The repository is structured for clarity, consistency, and revision, covering a wide range of core DSA + LLD topics.
+
+✨ Highlights:
+- 300+ problems across arrays, strings, recursion, trees, graphs, DP, and more
+- Clean, readable solutions with consistent naming and structure
+- Useful for interview preparation and concept revision
+- Actively maintained as I continue solving and learning
+- Will be expanded for interviews beyond just coding - but as 10x Software Engineer
+
+🔧 Language: I solved using **C++** however feel much obliged to tell that presence of pseudo codes certainly make it much easier for anyone regardless of programming language
+
+🔗 [View Repository](https://github.com/ShreedharG/DSA_codes)
+
 <!--
 ---
 
@@ -129,6 +151,7 @@
 
 ---
 -->
+---
 
 ## 🤝 Connect With Me
 
