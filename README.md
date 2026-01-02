@@ -79,7 +79,8 @@
 
 🔧 Tech: **Python + Tensorflow + nltk + Flask + MySQL**
 
-📍 Repo added
+📍 Repo is added  
+🔗 [View Repository](https://github.com/ShreedharG/Chatbot)
 
 
 ⛅ **Weather App**
@@ -89,7 +90,8 @@
 
 🔧 Tech: **ReactJS + OpenWeather API**
 
-📍 Repo added 🌦️
+📍 Repo is added  
+🔗 [View Repository](https://github.com/ShreedharG/WeatherApp)
 
 
 🎬 **Movie Recommender System**
@@ -99,7 +101,8 @@
 
 🔧 Tech: **Python + pandas + scikit-learn + Streamlit**
 
-📍 Repo added 🎞️
+📍 Repo is added  
+🔗 [View Repository](https://github.com/ShreedharG/Movie_Recommender_system)
 
 ---
 
@@ -133,7 +136,7 @@
 
 🔧 Language: I solved using **C++** however feel much obliged to tell that presence of pseudo codes certainly make it much easier for anyone regardless of programming language
 
-🔗 [View Repository](https://github.com/ShreedharG/DSA_codes)
+🔗 [View Repository](https://github.com/ShreedharG/DSA_LLD_codes)
 
 <!--
 ---
