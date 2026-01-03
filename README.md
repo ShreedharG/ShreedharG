@@ -69,6 +69,19 @@
 ---
 ## 🧪 Practice Projects
 
+🚗 **Ride Sharing System – Low Level Design (LLD)**
+
+> Designed a scalable ride-sharing system using Object-Oriented Programming principles
+> Covers user onboarding, driver–rider matching, ride lifecycle management, and pricing strategy
+> Focused on clean class design, separation of concerns, and extensibility
+
+🔧 Tech: **C++ + OOP + LLD + System Design Concepts**
+
+📍 Repo is added
+🔗 [View Repository](https://github.com/ShreedharG/Ride_Sharing-System_Design)
+
+<br>
+
 🤖 **Conversational Chatbot**
 
 > Basic NLP chatbot capable of responding to user queries  
