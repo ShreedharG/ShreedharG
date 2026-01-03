@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-- 🎓 B.Tech final-year student from **LNMIIT, Jaipur**, India passionate about modern development and real-world problem solving
+- 🎓 B.Tech final-year student from **LNMIIT, Jaipur, India** passionate about modern development and real-world problem solving
 - 👨🏻‍🏫 Solved 400+ DSA problems, building consistency and complex logic
 - 💡 Enjoy exploring systems, building projects, and learning how tech shapes experiences and solves real-world challenges
 - ⚙️ Currently working in skills involving Full-Stack Development, System Design, and AI-powered applications
@@ -24,18 +24,6 @@
 ---
 
 ## 📌 Featured Projects
-
-🚀 **Snap-QuizGen** (In Development)
-
-> Upload a lecture PDF → extract content → generate 5 difficulty-based exam questions.
-
-🔧 Tech: **Next.js + Gemini API + MongoDB + Tailwind**
-
-📍 Repo will be added soon 👀
-
-
-<br/><br/>
-
 
 🤼 **BroCode** 
 
@@ -68,6 +56,15 @@
 📍 Repo is added  
 🔗 [View Repository](https://github.com/ShreedharG/OTP_Extraction)
 
+<br/><br/>
+
+🚀 **Snap-QuizGen** (In Development)
+
+> Upload a lecture PDF → extract content → generate 5 difficulty-based exam questions.
+
+🔧 Tech: **Next.js + Gemini API + MongoDB + Tailwind**
+
+📍 Repo will be added soon 👀
 
 ---
 ## 🧪 Practice Projects
@@ -82,6 +79,7 @@
 📍 Repo is added  
 🔗 [View Repository](https://github.com/ShreedharG/Chatbot)
 
+<br>
 
 ⛅ **Weather App**
 
@@ -93,6 +91,7 @@
 📍 Repo is added  
 🔗 [View Repository](https://github.com/ShreedharG/WeatherApp)
 
+<br>
 
 🎬 **Movie Recommender System**
 
@@ -155,15 +154,18 @@
 ---
 -->
 ---
-
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreedhar-goyal-98105b251/", target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn--blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/shreedhar-goyal-98105b251/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <br/
+  &nbsp;&nbsp;
+  <a href="mailto:shreedhar.goyal@gmail.com">
+    <img height="30" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
+
 
 ## ⚡ Motivation
 
