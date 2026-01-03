@@ -15,7 +15,7 @@
 
 ## ✨ About Me
 
-- 🎓 B.Tech student from Delhi, India passionate about modern development and real-world problem solving
+- 🎓 B.Tech final-year student from **LNMIIT, Jaipur**, India passionate about modern development and real-world problem solving
 - 👨🏻‍🏫 Solved 400+ DSA problems, building consistency and complex logic
 - 💡 Enjoy exploring systems, building projects, and learning how tech shapes experiences and solves real-world challenges
 - ⚙️ Currently working in skills involving Full-Stack Development, System Design, and AI-powered applications
