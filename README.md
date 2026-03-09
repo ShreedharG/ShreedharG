@@ -1,14 +1,10 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Shreedhar</span>!</h1>
-
-<p align="center">
-  🚀 Full-Stack Developer | 🤖 AI & ML Enthusiast | 📚 Lifelong Learner
+<p align="center"> 
+  <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif?raw=true" alt="GIF showcase" width="auto"/> 
 </p>
+<h1 align="center">Hi there, I'm Shreedhar 👋</h1>
 
----
-
-<!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00BFFF&lines=Full+Stack+Developer;AI+Builder+%F0%9F%A4%96;Always+Learning+💯"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Developer;Building+AI+Agents;GenAI+Solutions;Always+Learning+%26+Exploring" alt="Typing SVG" />
 </p>
 
 ---
